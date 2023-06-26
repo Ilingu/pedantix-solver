@@ -18,7 +18,7 @@ For effectiveness and speed, it spawns a lot of thread (1000 ideally, but in rea
 
 ### Cool, How to use it?
 
-1. `Rule No.1`: Just <ins>DO NOT.</ins>
+1. `Rule No.1`: Just <ins>**DO NOT.**</ins>
 2. `Rule No.2`: Never break `Rule No.1`
 
 Why you may wonder?
